@@ -1,9 +1,4 @@
-# FundForward — Java Web-Based Crowdfunding Platform (Review 1)
-
-## What to submit for Review 1
-1. `Review1_Presentation.pptx` — project overview and design.
-2. This source-code repository — Java project, database schema, UI, and README.
-3. The GitHub repository URL pasted into the university submission form.
+# FundForward — Java Web-Based Crowdfunding Platform
 
 ## Technology
 - Java 17+
