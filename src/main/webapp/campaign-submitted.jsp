@@ -1,0 +1,3 @@
+<%@ page contentType="text/html;charset=UTF-8" language="java" %>
+<!DOCTYPE html><html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Submitted</title><link rel="stylesheet" href="css/style.css"></head>
+<body><header class="nav"><a class="brand" href="index.jsp">FundForward</a><nav><a href="campaigns">Explore campaigns</a></nav></header><main class="form-wrap"><span class="eyebrow">SUBMISSION RECEIVED</span><h1>Your campaign is submitted.</h1><p>It has been saved with PENDING status and will not appear in the public listing until approved.</p><a class="button primary" href="index.jsp">Back to home</a></main><footer>FundForward · Review 1</footer></body></html>
